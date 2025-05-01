@@ -5,7 +5,7 @@ Webcam-based real-time detection
 Training scripts with data augmentation
 Two different implementation variants
 
-Features
+Features:
 Real-time gender detection from webcam feed
 Deep learning model with ~96% accuracy
 Data augmentation for robust training
